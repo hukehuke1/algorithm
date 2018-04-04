@@ -4,7 +4,7 @@ Created on 2016.6.21
 
 @author: huke
 '''
-import random.randint
+import random
 
 
 if __name__ == '__main__':
